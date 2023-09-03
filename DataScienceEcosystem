@@ -1,1 +1,62 @@
-DataScienceEcosystem
+# Data Science Tools and Ecosystem
+
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+**Objectives:**
+    
+    - Python
+    - R Studio
+    - Julia
+    - Libraries
+    - Integers
+    - Operators
+    - Tools
+    
+
+Some of the popular languages that Data Scientists use are:
+
+    1. python
+    2. r studio
+    3. julia
+    4. java script
+    5. scala
+
+Some of the commonly used libraries used by Data Scientists include:
+    
+    1. TensorFlow
+    2. Numpy
+    3. sciPy
+    4. Pandas
+    5. Matplotlib
+
+| Data Science Tools |
+|:------------------:|
+
+|  Excel |
+|:------------------:|
+
+
+|   Tableau   |
+|:------------------:|
+
+|   PowerBi  |
+|:------------------:|
+
+
+
+### Below are a few examples of evaluating arithmetic expressions in Python.
+
+1. "*"
+2. /
+3. %
+4. //
+5. "+"
+6. "-"
+
+(3*4)+5
+
+### This will convert 200 minutes to hours by diving by 60
+
+200 / 60
+
+## Author - Linusraj
